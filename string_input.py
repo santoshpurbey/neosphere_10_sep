@@ -1,0 +1,5 @@
+name = input('Enter your name:')
+age = int(input("Enter yoiur age"))
+# age = int(age)
+print(f'your name is: {name} and age is: {age}')
+print(type(name),type(age))
